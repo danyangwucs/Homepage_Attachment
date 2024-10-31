@@ -2,7 +2,7 @@ Dear students, thank you for your interest in our lab, in order to ensure that w
 
 1. Email Name: Phd: Phd_AP_(Name_School), Master: Master_AP_(Name_School), Undergradute Intern:UI_AP_(Name_School).
 
-               e.g. Phd_AP_张三_西北农林科技大学, Master_AP_张三_西北农林科技大学, UI_AP_张三_西北农林科技大学
+               e.g. Phd_AP_张三_西北农林科技大学, Master_AP_张三_华南理工大学, UI_AP_张三_西北农林科技大学
 
 3. Attachments form: Please compress all following attachments into a single zip file, named as Phd_AP_(Name_School).zip.
    
